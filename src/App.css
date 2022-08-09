@@ -1,0 +1,8 @@
+.c-pointer:hover
+{
+    cursor: pointer;
+}
+.c-bold:hover
+{
+    font-weight: bold;
+}
